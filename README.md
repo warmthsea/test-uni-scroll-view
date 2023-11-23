@@ -13,7 +13,7 @@
 
 ## Android 平台
 
-####  问题1： Android平台滚动条丢失
+####  问题1： Android平台滚动条丢失（已设置:show-scrollbar="true"）
 ####  问题2： Android平台滚动过快 unpush（一次20条） 后直接自动跳到了新数据的最顶部
 
 ![screenshots](https://github.com/warmthsea/test-uni-scroll-view/assets/45450994/942705b4-ab73-4f01-b310-26cae67935a2)
