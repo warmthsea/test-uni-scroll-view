@@ -11,7 +11,7 @@
 
 ![screenshots](https://github.com/warmthsea/test-uni-scroll-view/assets/45450994/041a8ea3-4a74-4686-ad7a-8628ae6dd8a7)
 
-## Android 平台
+## Android 平台（真机、模拟器、打包后真机想用的问题）
 
 ####  问题1： Android平台滚动条丢失（已设置:show-scrollbar="true"）
 ####  问题2： Android平台滚动过快 unpush（一次20条） 后直接自动跳到了新数据的最顶部
